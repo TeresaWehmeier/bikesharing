@@ -18,6 +18,6 @@ There were minimum requirements for this analysis defined by the project team, w
 - The number of bike trips for each type of user and gender for each day of the week
 <img src="Images/nyc_citibike_story_who_served.png" width="40%" height="20%">
 
-In addition, there were some key points during the analysis that are important to examine in detail, when and where specific types of users (subscriber or customer) bikes, and for what purpose. A street map was developed to help with this analysis that marks locations on the map where bikes are checked out and by which user type, along with a point of interest layer to identify key locations for these bike checkouts.
+In addition, there were some key points during the analysis that are important to examine in detail, when and where specific types of users (subscriber or customer) access bikes, and for what purpose. A street map was developed to help with this analysis that marks locations on the map where bikes are checked out and by which user type, along with a point of interest layer to identify key locations for these bike checkouts.
 <img src="Images/nyc_citibike_story_where.png" width="40%" height="20%">
 
