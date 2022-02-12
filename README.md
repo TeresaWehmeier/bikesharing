@@ -47,6 +47,7 @@ The above image shows bike usage frequency by hour of the day. Low usage hours a
 
 #### Other Important Analysis Finds
 In addition, there were some key points during the analysis that are important to examine in detail. When and where specific types of users (subscriber or customer) access bikes, and for what purpose, are key to the analysis. A street map was developed to help with this analysis that marks locations on the map where bikes are checked out and by which user type, along with a point of interest map layer to identify key locations for these bike checkouts.
+
 <img src="Images/nyc_citibike_story_where.png" width="40%" height="20%">
 
 - Subscriber density is located near industry and larger commuter sources, such as Grand Central Station and Union Square:
