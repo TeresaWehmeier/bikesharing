@@ -59,7 +59,7 @@ In addition, there were some key points during the analysis that are important t
 Citi Bike serves one of the most densely populated cities in the world. Over 81% of all Citi Bike users are subscribes, who purchase annual or monthly passes primarily for the purpose of communting to and from work. However, New York City also hosts a large tourist industry, and Citi Bike's customer base includes almost 20% from that tourism industry. In August 2019 alone, over 2.3 million bikes were used, mostly by subscribers during the work week (Monday - Friday), but also by nearly 445,000 tourists, who fill in the weekend non-commuter period. Based on pricing available on the website, gross revenue in the month of August 2019 is conservatively $28,517,685 for subscribers and $6,657,975 for customers, or a total month's conservative gross estimate of $35,175,660.
 
 During this analysis more questions were raised and should be answered to help better predict success with a similar investment in Des Moines. 
-1. How does weather impact usage? A precipitation layer on the map may reveal patterns based on chnages in weather in NYC for the month of August.
+1. How does weather impact usage? A precipitation layer on the map may reveal patterns based on changes in weather in NYC for the month of August.
 2. Weather differences between Des Moines and New York City would also be advised.
 3. A year-long Citi Bike dataset should be compiled to see usage based on month, and trends over multiple years.
 4. If Des Moines adopts a similar model to Citi Bike, it is important to study commuters in the city, and where those commutes start or end (near the Capitol for example).
