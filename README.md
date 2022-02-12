@@ -10,7 +10,7 @@ The dataset was imported as a DataFrame in Jupyter Notebook, and the trip durati
 # Results
 There were minimum requirements for this analysis defined by the project team, which include seven visualizations that analyze:
 
-- The number of bike trips for each type of user and gender for each day of the week
+### The number of bike trips for each type of user and gender for each day of the week
 <img src="Images/nyc_citibike_story_who_served.png" width="40%" height="20%">
 
 The image above provides a wide overview of who Citi Bike serves, and when they are served. From the above image we know:
@@ -20,7 +20,7 @@ The image above provides a wide overview of who Citi Bike serves, and when they 
 4. Thursday evening is the highest bike ride period, and the majority of those riders are male.
 5. Customers are more frequent on Saturday and Sunday, while Subscribers use the bikes during the work week.
 
-- The number of bike trips for all riders for each hour of each day of the week
+### The number of bike trips for all riders for each hour of each day of the week
 <img src="Images/nyc_citibike_story_when.png" width="40%" height="20%">
 
 The above heat map shows the highest user traffic per weekday and hour of the day. From this chart we know:
@@ -30,14 +30,13 @@ The above heat map shows the highest user traffic per weekday and hour of the da
 4.  Thursdays are between 5 pm. and 7 pm. has the highest bike rides for the week.
 5.  Wednesday has very low ride usage compared to the rest of the work week.
 
-- The number of bike trips for all riders by gender for each hour of each day of the week
+### The number of bike trips for all riders by gender for each hour of each day of the week
 -   <img src="Images/nyc_citibike_story_when_who.png" width="40%" height="20%">
 
 The above image shows the number of bide rides by weekday and hour of day, broken down by gender. User type filter is also included to show when each tpye uses the bikes. We know:
 1. Males make up the majority of all bike rides, and for both user types (subscriber and customer).
 
-
-- The length of time that bikes are checked out for all riders and genders
+### The length of time that bikes are checked out for all riders and genders
 <img src="Images/nyc_citibike_story_checkout_times.png" width="40%" height="20%">
 1. The above chart shows the frequency of checkout times per hour of the day for each bike ride. 
 - I found no value in the graph, as there are unlimited subscriber users (81% of all rides) and all rides are limited to 30 minute or 45 minute intervalls.
