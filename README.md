@@ -50,10 +50,10 @@ In addition, there were some key points during the analysis that are important t
 <img src="Images/nyc_citibike_story_where.png" width="40%" height="20%">
 
 - Subscriber density is located near industry and larger commuter sources, such as Grand Central Station and Union Square:
--   <img src="Images/nyc_citibike_story_subscriber_density.png" weight="30%" height="10%">
+-   <img src="Images/nyc_citibike_story_subscriber_density.png" weight="10%" height="10%">
 
 - Customer density is located around popular tourist locations, such as museums, zoos and shopping:
--   <img src="Images/nyc_citibike_story_customer_density.png" weight="30%" height="10%">
+-   <img src="Images/nyc_citibike_story_customer_density.png" weight="10%" height="10%">
 
 # Summary
 Citi Bike serves one of the most densely populated cities in the world. Over 81% of all Citi Bike users are subscribes, who purchase annual or monthly passes primarily for the purpose of communting to and from work. However, New York City also hosts a large tourist industry, and Citi Bike's customer base includes almost 20% from that tourism industry. In August 2019 alone, over 2.3 million bikes were used, mostly by subscribers during the work week (Monday - Friday), but also by nearly 445,000 tourists, who fill in the weekend non-commuter period. Based on pricing available on the website, gross revenue in the month of August 2019 is conservatively $28,517,685 for subscribers and $6,657,975 for customers, or a total month's conservative gross estimate of $35,175,660.
