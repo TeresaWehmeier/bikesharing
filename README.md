@@ -27,7 +27,7 @@ The above heat map shows the highest user traffic per weekday and hour of the da
 1.  Most frequent bike ride times are between 7 and 9 am. and 5 and 7 pm. 
 2.  Highest usage is Monday through Friday for all users.
 3.  Filter on customer user types, and customers have a higher use on weekends between 11 am. and 6 pm.
-4.  Thursdays are between 5 pm. and 7 pm. has the highest bike rides for the week.
+4.  Thursdays between 5 pm. and 7 pm. has the highest bike rides for the week.
 5.  Wednesday has very low ride usage compared to the rest of the work week.
 
 #### The number of bike trips for all riders by gender for each hour of each day of the week
