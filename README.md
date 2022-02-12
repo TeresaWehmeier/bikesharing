@@ -9,9 +9,15 @@ The dataset was imported as a DataFrame in Jupyter Notebook, and the trip durati
 
 # Results
 There were minimum requirements for this analysis defined by the project team, which include seven visualizations that analyze:
-1. The length of time that bikes are checked out for all riders and genders
+- The length of time that bikes are checked out for all riders and genders
+<img src="Images/nyc_citibike_story_checkout_times.png" width="40%" height="20%">
 
--- <img src="Images/nyc_citibike_story_checkout_times.png" width="40%" height="20%">
+- The number of bike trips for all riders and genders for each hour of each day of the week
+<img src="Images/nyc_citibike_story_when.png" width="40%" height="20%">
 
-2. The number of bike trips for all riders and genders for each hour of each day of the week
-3. The number of bike trips for each type of user and ender for each day of the week
+- The number of bike trips for each type of user and gender for each day of the week
+<img src="Images/nyc_citibike_story_who_served.png" width="40%" height="20%">
+
+In addition, there were some key points during the analysis that are important to examine in detail, when and where specific types of users (subscriber or customer) bikes, and for what purpose. A street map was developed to help with this analysis that marks locations on the map where bikes are checked out and by which user type, along with a point of interest layer to identify key locations for these bike checkouts.
+<img src="Images/nyc_citibike_story_where.png" width="40%" height="20%">
+
