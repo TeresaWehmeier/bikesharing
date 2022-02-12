@@ -11,6 +11,9 @@ The dataset was imported as a DataFrame in Jupyter Notebook, and the trip durati
 There were minimum requirements for this analysis defined by the project team, which include seven visualizations that analyze:
 - The length of time that bikes are checked out for all riders and genders
 <img src="Images/nyc_citibike_story_checkout_times.png" width="40%" height="20%">
+1. The above chart shows the frequency of checkout times per hour of the day for each bike ride. 
+2.  I found no value in the graph, as there is unlimited use subscribers (81% of all rides) and all rides are limited to 30 minute or 45 minute intervalls.
+3.  
 
 - The number of bike trips for all riders and genders for each hour of each day of the week
 <img src="Images/nyc_citibike_story_when.png" width="40%" height="20%">
