@@ -33,7 +33,7 @@ The above heat map shows the highest user traffic per weekday and hour of the da
 #### The number of bike trips for all riders by gender for each hour of each day of the week
 -   <img src="Images/nyc_citibike_story_when_who.png" width="40%" height="20%">
 
-The above image shows the number of bide rides by weekday and hour of day, broken down by gender. User type filter is also included to show when each tpye uses the bikes. We know:
+The above image shows the number of bike rides by weekday and hour of day, broken down by gender. User type filter is also included to show when each tpye uses the bikes. We know:
 1. Males make up the majority of all bike rides, and for both user types (subscriber and customer).
 
 #### The length of time that bikes are checked out for all riders and genders
@@ -43,4 +43,13 @@ The above image shows the number of bide rides by weekday and hour of day, broke
 
 In addition, there were some key points during the analysis that are important to examine in detail. When and where specific types of users (subscriber or customer) access bikes, and for what purpose, are key to the analysis. A street map was developed to help with this analysis that marks locations on the map where bikes are checked out and by which user type, along with a point of interest map layer to identify key locations for these bike checkouts.
 <img src="Images/nyc_citibike_story_where.png" width="40%" height="20%">
+
+- Subscriber density is located near industry and larger commuter sources, such as Grand Central Station and Union Square:
+-   <img src="Images/nyc_citibike_story_subscriber_density.png" weight="40%" height="20%">
+
+- Customer density is located around popular tourist locations, such as museums, zoos and shopping:
+-   <img src="Images/nyc_citibike_story_customer_density.png" weight="40%" height="20%">
+
+# Summary
+
 
