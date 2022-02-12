@@ -43,8 +43,7 @@ The above image shows bike usage frequency by hour of the day. Low usage hours a
 
 #### The length of time that bikes are checked out for all riders and genders
 <img src="Images/nyc_citibike_story_checkout_times.png" width="40%" height="20%">
-1. The above chart shows the frequency of checkout times per hour of the day for each bike ride. 
-- I found no value in the graph, as there are unlimited subscriber users (81% of all rides) and all rides are limited to 30 minute or 45 minute intervalls.
+1. The above chart shows the frequency of checkout times per hour of the day for each bike ride.
 
 #### Other Important Analysis Finds
 In addition, there were some key points during the analysis that are important to examine in detail. When and where specific types of users (subscriber or customer) access bikes, and for what purpose, are key to the analysis. A street map was developed to help with this analysis that marks locations on the map where bikes are checked out and by which user type, along with a point of interest map layer to identify key locations for these bike checkouts.
